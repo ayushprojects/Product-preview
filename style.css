@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    background-color: hsl(30, 38%, 92%);
+}
+
+.card{
+    width: 600px;
+    height: 500px;
+    background-color: white;
+    margin: auto;
+    justify-content: center;
+    margin-top: 60px;
+    border-radius: 20px;
+
+    display: flex;
+}
+.card img{
+    width: 300px;
+    height: 500px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
